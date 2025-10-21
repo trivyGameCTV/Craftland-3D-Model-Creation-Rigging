@@ -16,7 +16,7 @@ Input:  Recreate this image in a 3D chibi style. Remove the gun from the image a
 
 |Input|Output|
 |-----|------|
-|![image-3d-model-1](https://github.com/trivyGameCTV/Craftland-Tutorial/blob/main/English/7.%20Player/img/image-3d-model-1.png)|![image-3d-model-2](https://github.com/trivyGameCTV/Craftland-Tutorial/blob/main/English/7.%20Player/img/image-3d-model-2.png)|
+|![image-3d-model-1](https://github.com/trivyGameCTV/Craftland-3D-Model-Creation-Rigging/blob/main/img/image-3d-model-1.png)|![image-3d-model-2](https://github.com/trivyGameCTV/Craftland-3D-Model-Creation-Rigging/blob/main/img/image-3d-model-2.png)|
 
 ---
 
