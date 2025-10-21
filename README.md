@@ -1,1 +1,1 @@
-# -Craftland-3D-Model-Creation-Rigging
+# Craftland-3D-Model-Creation-Rigging
